@@ -1,0 +1,294 @@
+*{
+    margin:0;
+    padding:0;
+}
+.box{
+    box-sizing: border-box;
+    background-image: url(pic1.png);
+    height: 944px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 90px;
+}
+.container{
+    width: 960px;
+    margin: auto;
+}
+
+.txt{
+    color: #FFFF;
+}
+.txt1{
+    color: #FFFF;
+    display: flex;
+    font-size: 55px;
+  
+}
+.home{
+    font-size: 14px;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+.home1{
+    margin-right: 24px;
+}
+
+
+.twobytes{
+    color: #FFFF;
+    font-size: 31px;
+}
+.consulting{
+    color: #FFFF;
+    font-size: 12px;
+    letter-spacing: 8px;
+}
+.twobytes_consulting{
+    
+    /* margin-left: 170px; */
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 232px;
+}
+
+.js1{
+    text-decoration: none;
+    padding-top: 12px;
+    border-top: 4px solid #4acaff;
+    border-radius: 1px;
+    color: #ffffff;
+}
+
+.js2{
+    text-decoration: none;
+        color: #ffffff;
+}
+.js3{
+    text-decoration: none;
+        color: #ffffff;
+}
+
+.js4{
+    text-decoration: none;
+        color: #ffffff;
+}
+
+.js5{
+    text-decoration: none;
+        color: #ffffff;
+}
+
+.js6{
+    text-decoration: none;
+        color: #ffffff;
+}
+
+.jse{
+    transform:scale(2.3);
+    opacity:0.9;
+    cursor:pointer;
+    display: flex;
+    margin-top: 53px;
+    margin-left: 583px;
+}
+
+.jse1{
+    margin-top: 35px;
+    margin-left: 504px;
+    
+}
+
+.jse2{
+    margin-top: 1px;
+    margin-left: 1px;
+}
+
+.form{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.fotm_input{
+    width: 735px;
+    font-size: 28px;
+    padding: 10px;
+    border: 0;
+    border-bottom: 4px solid #e2e2e2;
+    border-radius: 2px;
+    outline:0;
+
+}
+
+.form_button{
+    padding: 15px 25px;
+    border: 0;
+    background-color: #4acaff;
+    border-bottom: 4px solid #3baedd;
+    border-radius: 2px;
+    color: white;
+}
+
+.form_button_1{
+    text-decoration: none;
+    color: #FFFF;
+}
+
+.form_bottom{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    align-items: center;
+}
+
+.form__checkboxes input{
+    margin-right: 15px;
+    margin-left: 20px;
+}
+
+.form__checkboxes input:first-child{
+    margin-left: 0;
+}
+
+.form__checkboxes label{
+    color: white;
+}
+
+.form_select{
+    border: 0;
+    background-color: white;
+    border-radius: 2px;
+    padding: 10px 25px;
+    
+}
+
+.separator{
+    background-image: url(pic3.png);
+    height: 10px;
+}
+
+.box1{
+    height: 587px;
+}
+
+.txt3{
+    font-size: 33px;
+    text-align: center;
+}
+
+.border{
+    border: 5px solid #4acaff;
+    border-radius: 1px;
+    display: inline-block;  
+    width: 138px;
+
+}
+
+.txt4{
+    font-size: 21px;
+    text-align: center;
+}
+
+.border1{
+    border: 2px solid #4acaff;   
+    border-radius: 10px;
+    width: 286px;
+    height: 60px;
+    display: inline-block;
+}
+
+.txt5{
+    font-size: 12px;
+    color: #4acaff;
+    padding: 24px 55px;
+}
+
+.txt2{
+    text-align: center;
+}
+
+.pic3{
+    background-image: url(pic3.png);
+    height: 10px;
+    margin-top: 415px;
+}
+
+.box2{
+    height: 442px;
+    width: 1903px;
+    background-color: #000;
+    padding: 0;
+    text-align: center;
+}
+
+.txt6{
+    color: #FFFF;
+    padding-top: 162px;
+}
+
+.border2{
+    border: 2px solid #4acaff;
+    width: 360px;
+    height: 50px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 36px;
+}
+
+.txt5_1{
+    text-decoration: none;
+    color: #4acaff;
+}
+
+.txt7{
+    color: #FFFF;
+    margin-top: 15px;
+    margin-right: 171px;
+}
+
+.pic4{
+    background-image: url(pic4.png);
+    height: 13px;
+    width: 16px;
+    margin-left: 319px;
+    margin-top: -15px;
+    background-repeat: no-repeat;
+}
+
+.pic5{
+    background-image: url(pic3.png);
+    height: 10px;
+    margin: 0;
+}
+
+.box3{
+    height: 185px;
+}
+
+.pic_top{
+    background-image: url();
+}
+
+.tweet{
+    text-decoration: none;
+    width: #186487;
+}
+
+.like{
+    text-decoration: none;
+    width: #186487;
+}
+
+.pic_top{
+    background-image: url(pic4.png);
+    background-color: #4acaff;
+    height: 13px;
+    width: 16px;
+    background-repeat: no-repeat;
+
+}
